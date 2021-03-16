@@ -8,4 +8,9 @@
  - Markdowns is a way to style texts for the web. It uses characters such as the hashtag and aestrisks to work along side other characters to allow you to make text bold, italics and even strike through some of the text. Here is a quick run down of most of the basic ones: 
 
 
-`<addr>`
+`<*>` This can change the style of the text.
+ One on each side of a word will italicize
+ Two on each side of a word will make the text bold
+
+
+`<#>` This can change the size of the text, depending on how many you use. 
