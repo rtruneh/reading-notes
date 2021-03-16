@@ -5,7 +5,7 @@ Mahatma Gandhi said
 
 Growth mindset is allowing pathways to remain opened so that possibilites are never capped. It's a mental exercise of learning how to love learning. 
 
-## **Maintaining a growth mindset:**
+### **Maintaining a growth mindset:**
 
 #### POSITIVITY
 -Make it a habit to speak in a gentle and positive manner to yourself through out the day. We are our own worst critics but learn to change the narrative by being your biggest cheerleader. Remind yourself of how smart and amazing and capable you already are and see if you don't take on tasks with a higher perspective. 
