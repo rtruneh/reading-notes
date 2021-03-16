@@ -12,8 +12,8 @@ Growth mindset is allowing pathways to remain opened so that possibilites are ne
 #### NO CAP 
 -***YET*** is your new favorite word. Do not limit yourself by saying you ~~can't~~. Success doesn't happen without failure, take fear by the horns and let it know who is boss of your life. You never know where you can get to if you don't ever try.
 #### ACCOUNTABILITY
--Get you a support system that will help to keep you above the waves when you feel like it's all starting to get overwhelming. People who can give you a reminder of what you've already accomplisehd and how much more you have within yourself. We aren't meant to do this thing called *lIFE* alone...so use ALL your resources. 
+-Get you a support system that will help to keep you above the waves when you feel like it's all starting to get overwhelming. People who can give you a reminder of what you've already accomplisehd and how much more you have within yourself. We aren't meant to do this thing called **LIFE** alone...so use ALL your resources. 
 
 
-Lets connect [GitHub Pages](https://github.com/rtruneh).
+I'm new to the tech language so lets use the growth mindset to help each other out and connect [My Github Profile](https://github.com/rtruneh).
 
