@@ -15,5 +15,5 @@ Growth mindset is allowing pathways to remain opened so that possibilites are ne
 -Get you a support system that will help to keep you above the waves when you feel like it's all starting to get overwhelming. People who can give you a reminder of what you've already accomplisehd and how much more you have within yourself. We aren't meant to do this thing called **LIFE** alone...so use ALL your resources. 
 
 
-I'm new to the tech language so lets use the growth mindset to help each other out and connect [My Github Profile](https://github.com/rtruneh).
+I'm new to the tech language so lets use the growth mindset to help each other out and [connect](https://github.com/rtruneh).
 
