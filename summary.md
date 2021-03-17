@@ -12,11 +12,11 @@
 
 `<*>` This can change the style of the text.
 
-'*ITALIC*' Placing an asterisk on each side of a word or sentence will *italicize*
+'<*ITALIC*>' Placing an asterisk on each side of a word or sentence will *italicize*
 
-'**BOLD**' Placing two asterisks on each side of a word or sentence will make it **bold**
+'<**BOLD**>' Placing two asterisks on each side of a word or sentence will make it **bold**
 
-'***BOLD ITALIC***' Placing 3 asterisks on each side of a word or sentence will make it a ***bold italics***
+'<***BOLD ITALIC***>' Placing 3 asterisks on each side of a word or sentence will make it a ***bold italics***
 
 
 `<#>` This can change the size of the text, depending on how many you use. 
@@ -24,4 +24,4 @@
 The size ranges from 1-6. One hashtag making the text large and reducing in size all the way down to it's smalles, using 6 hastags.
 
 You know how you can click a word and its a link to another page? Its super simple just write the key word you want used within brakets and the url addressss within parentheses like so 
-> '[KEY WORD](http://keyword.com)
+>'<[KEY WORD](http://keyword.com)>'
