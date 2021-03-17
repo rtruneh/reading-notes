@@ -17,3 +17,4 @@ Growth mindset is allowing pathways to remain opened so that possibilites are ne
 
 I'm new to the tech language so lets use the growth mindset to help each other out and [connect](https://github.com/rtruneh).
 
+[summary](summary.md)
