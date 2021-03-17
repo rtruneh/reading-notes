@@ -7,12 +7,14 @@
 ## Terms and Definitions
 
 ## Markdowns
- - Markdowns are a way to style texts for the web. It uses characters such as the hashtag and aestrisks to work along side other characters to allow you to make any text bold, italics and even strike through. Here is a quick run down of most of the basic ones: 
+ - Markdowns are a way to style texts for the web. It uses characters such as the hashtag and asterisk to work along side other characters to allow you to make any text bold, italics and even strike through. Here is a quick run down of most of the basic ones: 
  >
 
 `<*>` This can change the style of the text.
- One on each side of a word will italicize
- Two on each side of a word will make the text bold
+'*ITALIC*' Placing an asterisk on each side of a word or sentence will *italicize*
+'**BOLD**' Placing two asterisks on each side of a word or sentence will make it **bold**
+'***BOLD ITALIC***' Placing 3 asterisks on each side of a word or sentence will make it a ***bold italics***
 
 
 `<#>` This can change the size of the text, depending on how many you use. 
+The size ranges from 1-6. One hashtag making the text large and reducing in size all the way down to it's smalles, using 6 hastags.
