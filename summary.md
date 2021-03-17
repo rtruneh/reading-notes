@@ -28,4 +28,4 @@ You know how you can click a word and its a link to another page? Its super simp
 
 In this age where everything is automated, it's exciting to be on a webpage and recoginzie the codes that would allow it to look the way it does. 
 
-[Texteditor](TextEditor.md)
+[TextEditor](TextEditor.md)
