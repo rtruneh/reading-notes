@@ -26,4 +26,6 @@ The size ranges from 1-6. One hashtag making the text large and reducing in size
 You know how you can click a word and its a link to another page? Its super simple just write the key word you want used within brakets and the url addressss within parentheses like so 
 >`<[KEY WORD](http://keyword.com)>`
 
+In this age where everything is automated, it's exciting to be on a webpage and recoginzie the codes that would allow it to look the way it does. 
+
 
