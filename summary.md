@@ -4,7 +4,7 @@
 ## Get Connected   
 #####  Use [Github](https://github.com) to connect, network and learn alongside other forever students. The set up and sign up is super simple. Navigating may take some getting used to but that's why you make sure to make friends along the way.
 
-## Terms and Definitions
+## Terms and visuals:
 
 ## Markdowns
  - Markdowns are a way to style texts for the web. It uses characters such as the hashtag and asterisk to work along side other characters to allow you to make any text bold, italics and even strike through. Here is a quick run down of most of the basic ones: 
@@ -25,3 +25,5 @@ The size ranges from 1-6. One hashtag making the text large and reducing in size
 
 You know how you can click a word and its a link to another page? Its super simple just write the key word you want used within brakets and the url addressss within parentheses like so 
 >`<[KEY WORD](http://keyword.com)>`
+
+
