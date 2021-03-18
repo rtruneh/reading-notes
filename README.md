@@ -1,5 +1,6 @@
 # *WELCOME IN*
 
 ## Table of Content
-    ### [summary](summary.md)
-    ### [TextEditor](TextEditor.md)
+    [Welcome](welcome)
+    [Summary](summary.md)
+    [TextEditor](TextEditor.md)
