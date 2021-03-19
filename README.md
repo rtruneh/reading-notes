@@ -7,11 +7,11 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 
 ## Table of Content
 
-[Welcome](welcome.md)
+[Growth Mindset](welcome.md)
 
-[Summary](summary.md)
+[Web Development](summary.md)
 
-[TextEditor](TextEditor.md)
+[Text Editor](TextEditor.md)
 
 [Flashcards](revisions-cloud.md)
 
