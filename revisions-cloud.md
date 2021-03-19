@@ -3,11 +3,13 @@
 
 ___
 
-Version Control
+<script type="flashcard">
+Q>>> Version Control <<<
 
 ?
 
-System that allows you to revisit versions of a file or file sets.
+A>>> System that allows you to revisit versions of a file or file sets <<<
+</script>
 
 ___
 
