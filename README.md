@@ -1,8 +1,9 @@
 # *WELCOME IN*
 
-[](/c/pictures/profile-1.jpg)
 
-My name is Rosa Truneh. I am a lover of all things learning. A mother of a 9 year old with a colorful background in Accounting, food and beverage, management, real estate and now coding. This will be new, exciting and tiring but I'm looking forward to the challenge. I am ready and willing to be taught and open to connect. 
+[](pictures/profile-1.jpg)
+
+My name is Rosa Truneh. A mother of a 9 year old with a colorful background in accounting, food and beverage, management, real estate and now coding. Constantly looking for new ways to better myself, I consider every day the chance to do that. As a forever student I look forward to the challenge. I am ready and willing to be taught and open to connect. 
 
 ## Table of Content
 
