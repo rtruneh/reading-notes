@@ -24,3 +24,22 @@ Crate a *WIREFRAME*
     >A simple sketh of the key information that needs to go on each page site. It'll show the hierarchy of the informationa and how much space it'll require on the page. 
 
 This will help you ensure all the informaiton neccessary is included. 
+
+### IMPORTANT THINGS
+
+***Organize***
+
+> *Grouping* together related content into *blocks* or *chunks* to make the page look similar. Present certain information in a similar visual style.
+
+        >Grouping and similarity types
+            >> Proximity: items placed close together
+            >> Continuance: Items placed in a line or curve
+            >> White space: related items close together
+            >> Color: placed behind related items
+            >> Borders: line around border of group
+            
+***Prioritizing***
+
+> Make parts of the page look distinct from surrounding content, draw attention to or away from certain items. Create a *visual hierarchy* to help users focus on key messages and guide them to subsequent messages.
+        >Visual Hierarchy
+            >>The order in which your eyes perceive what they see. 
