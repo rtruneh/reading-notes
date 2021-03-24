@@ -23,13 +23,13 @@
 
 ##### *Contrast* , *hue* , *saturation*, *Opacity* and *brightness* are some of the things that make a difference in the colors and how they work together. 
 > Contrast: Be mindful in how the colors lay on each other. 
-    > Low contrast is more difficult to read. 
-    > High Contrast is very clear but better for headers and quick reads.
-    > Medium contrast is better for longer reads. 
-    
+    >> Low contrast is more difficult to read. 
+    >> High Contrast is very clear but better for headers and quick reads.
+    >> Medium contrast is better for longer reads. 
+
 > Opacity is created with an alpha value between 0.0 and 1.0 added to an RGB value. 
-    > Hue is the colloquial idea of color.
-    > Saturation is the amount of gray in a color. 
-    > Brightness is the amount of white or black in a color. 
+    >> Hue is the colloquial idea of color.
+   >> Saturation is the amount of gray in a color. 
+    >> Brightness is the amount of white or black in a color. 
 
 
