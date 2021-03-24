@@ -46,3 +46,5 @@ This will help you ensure all the informaiton neccessary is included.
         
         > Visual Hierarchy
             >> The order in which your eyes perceive what they see. 
+
+            
