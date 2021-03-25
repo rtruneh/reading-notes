@@ -15,6 +15,8 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 
 [Terms](revisions-cloud.md)
 
-[Designing](Designing.md)
+[HTML](Designing.md)
 
-[Color](chapter11.md)
+[CSS-Color](chapter11.md)
+
+[JAVASCRIPT](Javascript.md)
