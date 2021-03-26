@@ -10,3 +10,5 @@ Javascript is the last piece of the puzzle in creating an amazing web page. Now 
 The **Javascript** is the behavior layer. This is where you can change how the page behaves and adding interactivity. 
 
 Keeping these three elements in different files makes it easier for coding, but more experienced coders may choose to combine. It's all a personal preference. 
+
+[Lab Seven]
