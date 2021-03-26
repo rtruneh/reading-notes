@@ -22,4 +22,11 @@
 > Also known as a *command line*, is a text based interface to the system. 
 
 
-___
+![HTML ELEMENTS](Capture.png)
+>### HTML Elements
+>> are added to the content of a page to describe it's structure. An element consists of openeing and closing tag, plus it's content.
+
+
+![CSS RULES](capture2.png)
+>### CSS Rules
+>> indicate how the contents of one or more element should be displayed in browser. 
