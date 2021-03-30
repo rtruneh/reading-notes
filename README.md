@@ -20,3 +20,5 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 [Design with CSS 05](chapter11.md)
 
 [JAVASCRIPT](Javascript.md)
+
+[Computer Logic 06B](complogic.md)
