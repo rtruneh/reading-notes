@@ -30,10 +30,10 @@ A *script* is a series of instructions that a computer will follow to achieve th
 ### Basic JavaScript Instructions
 
 1. *Expressions* can either assign a value to a variable:
->> `var color = 'beige';` makes the value beige
+>>`var color = 'beige';` makes the value beige
 
 Or assign two or more variables to return a single value:
->> `var area = 3 * 2;` used two numbers to return a value of 6.  
+>>`var area = 3 * 2;` used two numbers to return a value of 6.  
 
 2. *Operators* are relied upon by expressions. These allow programmers to create a single value from one or more value. 
     - Arithmetic operators: perform basic math
