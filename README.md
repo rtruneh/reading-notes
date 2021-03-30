@@ -9,11 +9,11 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 
 [Growth Mindset](welcome.md)
 
-[Web Development](summary.md)
+[Learning Markdown 01](summary.md)
 
-[Text Editor](TextEditor.md)
+[The Coder's Computer 02](TextEditor.md)
 
-[Terms](revisions-cloud.md)
+[Revisions and the Cloud 03](revisions-cloud.md)
 
 [HTML](Designing.md)
 

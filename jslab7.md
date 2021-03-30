@@ -6,6 +6,7 @@
     - Pages 88-94
 
 #### JavaScript in the browser: 
+pages 1-24
 
 Changing contect of an HTML while it's loaded is important because it should have the ability to: 
     - *ACCESS* content of the page. 
@@ -14,6 +15,7 @@ Changing contect of an HTML while it's loaded is important because it should hav
     - *REACT* to evets triggered by the user or browser. 
 
 ### ***What is a script and how do I create one?***
+pages 74-79
 
 A *script* is a series of instructions that a computer will follow to achieve the goal give. The same way we follow recipes, handbooks or manuals to create. 
 
@@ -31,3 +33,21 @@ A *script* is a series of instructions that a computer will follow to achieve th
 >List the steps you come up with from the flow chart and use each step as a line of code. 
 
 
+### Basic JavaScript Instructions
+
+1. *Expressions* can either assign a value to a variable:
+>> `var color = 'beige';` makes the value beige
+
+Or assign two or more variables to return a single value:
+>> `var area = 3 * 2;` used two numbers to return a value of 6.  
+
+2. *Operators* are relied upon by expressions. These allow programmers to create a single value from one or more value. 
+    - Arithmetic operators: perform basic math
+        - Numbers within parentheses will compute first. If you do not use these characters, PEMDAS will be applied.
+    - String operators: Combine strings ie: `greeting = 'Hi'+'Molly';`
+        - Combining strings to create a new one is called *concatenation*.
+
+### What is a function 
+pages 88-94
+
+Functions let you group a series of statements together to perform a specific task. It uses *parameters* (information passed to the function) to provide information ie: to get the area of an object it needs the width and height. The answer is called a *return value*

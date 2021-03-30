@@ -11,4 +11,4 @@ The **Javascript** is the behavior layer. This is where you can change how the p
 
 Keeping these three elements in different files makes it easier for coding, but more experienced coders may choose to combine. It's all a personal preference. 
 
-[Chapter 1](jslab7.md)
+[LAB 7](jslab7.md)
