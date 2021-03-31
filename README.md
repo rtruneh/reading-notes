@@ -24,3 +24,5 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 [Computer Logic 06B](complogic.md)
 
 [Programing with JavaScript 07](jslab7.md)
+
+[Operators and Loops](operators.md)
