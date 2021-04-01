@@ -12,8 +12,6 @@
     > *operator*
 
 
-    ###### pages 150-151
-
 - Logical Operators allow you to compare the results of more than one comparison operator.
 
     >`(( 5 < 2 ) && (2 >= 3))`
@@ -24,8 +22,6 @@
     - `||` means *logical or*, it tests at least one condition
     - `!` means *logical not* and inverts a single boolean value
 
-
-    ###### pages 156-157
 
 
 - Loops: check a condition.
@@ -44,4 +40,4 @@
         > `i++` is the *update* that adds one to the counter 
         > every run
 
-    ###### pages 170-173
+
