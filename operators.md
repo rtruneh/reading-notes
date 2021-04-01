@@ -8,7 +8,7 @@
     - Every condition is made up of one operator and two operands. The operands are placed on each side of the operator (see below for example).
     > '(score <= pass)'
     > Score and pass are the *operands* and the '<=' is the *operator*
-###### pages 150-151
+    ###### pages 150-151
 
 - Logical Operators allow you to compare the results of more than one comparison operator.
     >'(( 5 < 2 ) && (2 >= 3))'
@@ -17,6 +17,7 @@
     - '||' means *logical or*, it tests at least one condition
     - '!' means *logical not* and inverts a single boolean value
     ###### pages 156-157
+
 
 - Loops: check a condition.
     - If the condition runs true the code block will run and it will be checked again until the condition returns false. 
@@ -28,4 +29,4 @@
         > 'var i = 0;' *initializes* a variable and sets it to zero
         > 'i < 10;' is the *condition* that tells it how many times to run
         > 'i++' is the *update* that adds one to the counter every run
-###### pages 170-173
+    ###### pages 170-173
