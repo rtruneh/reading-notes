@@ -25,4 +25,4 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 
 [Programing with JavaScript 07](jslab7.md)
 
-[Operators and Loops](operators.md)
+[Operators and Loops 08](operators.md)
