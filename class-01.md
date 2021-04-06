@@ -6,18 +6,18 @@ The outter layer of the structure is the *`<html>`* tag, which denotes the type 
 
 Here is a basic outline of an HTML document.
 
--`<html>`
-    -`<head>`
-        `<title></title>`
-        `<meta/>`
-    -`</head>`
-        -`<body>`
-            -`<h1>`
-                -`<p>`
-                -`</p>`
-            -`</h1>`
-        -`</body>`
--`</html>`
+- `<html>`
+    - `<head>`
+       - `<title></title>`
+    - `<meta/>`
+    - `</head>`
+        - `<body>`
+            - `<h1>`
+                - `<p>`
+                - `</p>`
+            - `</h1>`
+        - `</body>`
+- `</html>`
 
 ## Markdowns
 
@@ -37,6 +37,7 @@ Class attributes help you to uniquely identify several elements within the page.
     -`<iframe>` is a little window put on your site that shows another page. *iframe* is the abbreviation of '*inline frame*. Attributes needed to use an *iframe* are *src* to give the specific url, *height* and *width* to specify the size of the box. 
 
 Here are a few more notable ones: 
+
 ![markdown](markdown.PNG)
 ###### HTML&CSS Job Duckett ######
 
