@@ -1,35 +1,23 @@
 # *WELCOME IN*
 
+My name is Rosa Truneh. A mother of a 9 year old with a colorful background in accounting, food and beverage, management, real estate and now coding. Constantly looking for new ways to better myself, I consider every day the chance to do that. As a forever student I look forward to the challenge. I am ready and willing to be taught and open to connect. So welcome to the journey and come learn with me.
 
-![](pictures/profile-1.jpg)
+## **Table of Content**
 
-My name is Rosa Truneh. A mother of a 9 year old with a colorful background in accounting, food and beverage, management, real estate and now coding. Constantly looking for new ways to better myself, I consider every day the chance to do that. As a forever student I look forward to the challenge. I am ready and willing to be taught and open to connect. 
+## Code 102 Reading Notes
 
-## Table of Content 
+|[Growth Mindset](welcome.md)|
+|[01 Learning Markdown](summary.md)|
+|[02 The Coder's Computer](TextEditor.md)|
+|[03 Revisions and the Cloud](revisions-cloud.md)|
+|[04 HTML](Designing.md)|
+|[05 Design with CSS](chapter11.md)|
+|[JAVASCRIPT](Javascript.md)|
+|[06B Computer Logic](complogic.md)|
+|[07 Programing with JavaScript](jslab7.md)|
+|[08 Operators and Loops](operators.md)|
 
-## Web Development Fundamentals 
-
-[Growth Mindset](welcome.md)
-
-[01 Learning Markdown](summary.md)
-
-[02 The Coder's Computer](TextEditor.md)
-
-[03 Revisions and the Cloud](revisions-cloud.md)
-
-[04 HTML](Designing.md)
-
-[05 Design with CSS](chapter11.md)
-
-[JAVASCRIPT](Javascript.md)
-
-[06B Computer Logic](complogic.md)
-
-[07 Programing with JavaScript](jslab7.md)
-
-[08 Operators and Loops](operators.md)
-
-## Nashville Code 201
+##  Code 201 Reading Notes
 
 [01 Reading]()
 [02 Reading]()
