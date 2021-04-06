@@ -19,18 +19,18 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 
 ##  Code 201 Reading Notes
 
-[01 Reading]()
-[02 Reading]()
-[03 Reading]()
-[04 Reading]()
-[05 Reading]()
-[06 Reading]()
-[07 Reading]()
-[08 Reading]()
-[09 Reading]()
-[10 Reading]()
-[11 Reading]()
-[12 Reading]()
-[13 Reading]()
-[14 Reading]()
-[15 Reading]()
+|[01 Reading]()|
+|[02 Reading]()|
+|[03 Reading]()|
+|[04 Reading]()|
+|[05 Reading]()|
+|[06 Reading]()|
+|[07 Reading]()|
+|[08 Reading]()|
+|[09 Reading]()|
+|[10 Reading]()|
+|[11 Reading]()|
+|[12 Reading]()|
+|[13 Reading]()|
+|[14 Reading]()|
+|[15 Reading]()|
