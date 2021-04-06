@@ -5,24 +5,44 @@
 
 My name is Rosa Truneh. A mother of a 9 year old with a colorful background in accounting, food and beverage, management, real estate and now coding. Constantly looking for new ways to better myself, I consider every day the chance to do that. As a forever student I look forward to the challenge. I am ready and willing to be taught and open to connect. 
 
-## Table of Content
+## Table of Content 
+
+## Web Development Fundamentals 
 
 [Growth Mindset](welcome.md)
 
-[Learning Markdown 01](summary.md)
+[01 Learning Markdown](summary.md)
 
-[The Coder's Computer 02](TextEditor.md)
+[02 The Coder's Computer](TextEditor.md)
 
-[Revisions and the Cloud 03](revisions-cloud.md)
+[03 Revisions and the Cloud](revisions-cloud.md)
 
-[HTML 04](Designing.md)
+[04 HTML](Designing.md)
 
-[Design with CSS 05](chapter11.md)
+[05 Design with CSS](chapter11.md)
 
 [JAVASCRIPT](Javascript.md)
 
-[Computer Logic 06B](complogic.md)
+[06B Computer Logic](complogic.md)
 
-[Programing with JavaScript 07](jslab7.md)
+[07 Programing with JavaScript](jslab7.md)
 
-[Operators and Loops 08](operators.md)
+[08 Operators and Loops](operators.md)
+
+## Nashville Code 201
+
+[01 Reading]()
+[02 Reading]()
+[03 Reading]()
+[04 Reading]()
+[05 Reading]()
+[06 Reading]()
+[07 Reading]()
+[08 Reading]()
+[09 Reading]()
+[10 Reading]()
+[11 Reading]()
+[12 Reading]()
+[13 Reading]()
+[14 Reading]()
+[15 Reading]()
