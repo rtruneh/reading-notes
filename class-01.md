@@ -56,3 +56,11 @@ Article `<article>` acts like a container for a secion of a page could potential
 
 Asides `<aside>` have dual functionality. If it's within the *article* element it normally has information related to the article but not essential to the overall meaning, like a quote or glossary. If it's outside of the *article* element, it'll have information related to the entire page, like a link to other section of the site. 
 
+## PROCESS AND DESIGN
+
+Before you can jump off the deep end of the diving board into coding, you need to have an understanding of who your target audience is. Asking yourself what demographics will be viewing your site, what are they looking for, how can you make navigating the page simple and easy to use. Playing as your own devils advocate will help you in creating the wireframe and site maping for an efficient and effective page for yourself or your clients. 
+
+A *site map* is a diagram of the pages to be used in the structure of the site. By *card sorting* you can easily see what pages need to be grouped together based on the information it's providing. Once you've gotten a basic map of your site, you can begin to create *wireframes* to give you a sketch of how each page will look like specifically. Below is an example of a site map. 
+
+![site map](Sitemaps.PNG)
+
