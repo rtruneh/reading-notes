@@ -101,3 +101,74 @@ If you decide to code your CSS internally within the HTML file you'll have have 
 
 
 CSS has application rules in that if two selectors are identical the last given rule will take precedence. If a selector is more specific than the others, that one will also take precedence. You can work around this by adding `!important` after a value to make this one beat out the others. 
+
+# JAVASCRIPT #
+
+In JavaScript (JS), a script is a series of instructions, these instructions are known as *statements*, every statement should end in a semicolon. Note that JS is case sensitive. Each statement should start on a new line. Some statements can be written within curly braces and these are known as *code blocks*, these are not followed by semicolons. 
+
+### Comments ###
+
+Comments help to explain what you're attempting to do to anyone reading your code. You create a comment using `/* enter comment here *\` tags for multiline comments and a simple `//` for single line comments. 
+
+### Variables ###
+
+In order for the computer to know what and how to run things, it needs help in *remembering* certain data which is called *variables*. If you wanted the computer to output an area you have to give it very specific instructions: 
+1. *Remember* value for width
+2. *Remember* value for height
+3. Multiply width by height to get area
+4. Return results
+
+Lets take a look at the below and break down its parts:
+
+Number: var quantity = x;
+String: var text = 'message here';
+Boolean: var test = true; 
+
+To declare a variable you must give it a keyword and variable name, var is the keyword (you can also use 'let') and quantity is the variable name. The value assigned to this particular one is x. Values can be numbers or strings. When storing a number you'd just write the number and make sure to close it off with the semicolon. When making the value a string you'd just add '' marks. 
+
+Rules for naming variables:
+1. Name should begin with a letter, dollar signs or underscore only!
+2. Name can contain letters, numbers, dollar signs or an underschore only! No dash or period should be used. 
+3. Keywords should not be used, such as "VAR".
+4. Variables are case sensitive, try not to create two with the same name and different cases. 
+5. Use a name that easily describes the kind of info stored. 
+6. If the name is made of more than one word make sure to capitlize every word after the first.
+
+### ARRAYS ###
+
+This is a special type of variable that stores a list of values. Below is an example of an array literal:
+
+`colors = ['green', 'yellow', 'red'];`
+
+Each item in an array has an automatically assigned number called an *index*. This index starts with '0'. To access that particular you would type the following: 
+
+`var itemThree;
+itemThree = colors[x]`
+
+If you're looking to see how many items are in an array you could set the below: 
+
+`var numColors;
+numColors; = colors.length;`
+
+Lets say, down the line, you want to change the items in the array without having to find the original list and edit it. You could update by typing the var name and the index number: 
+
+
+`colors[2] = 'black';`
+
+### Operators ###
+
+Operators allow programers to create a single value from one or more values. There are math operators that help you to do basic functions such as addition, subtraction, multiplication, division etc. Keep in mind that these funcitons follow the PEMDAS order of execution. Dig deep into your mind about what the math teachers said about this!!
+
+PEMDAS: Parenthesis, Exponents, Multiplication (*), Division (/), Addition, Subtraction. 
+
+STRING Operators is applying a string as a value and creating a funciton name with those variables. For example: 
+
+`let firstName = 'Joe';`
+`let lastName = 'Doe';`
+`let fullName = firstName + lastName;`
+
+In the instance that you need to mix numbers and string you would just utilize the plus sign in between the two. For example, lets utilize the above example and add a string that says "hi": 
+
+`let message = 'Hi ' + fullName;`
+
+
