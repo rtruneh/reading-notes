@@ -52,7 +52,7 @@ The `<sup>` element is used to contain characters that should be SUPerscript,lik
 
 The `<sub>` elements is used to contain characters that should be SUBscript like footnotes or chemical formulas. 
 
-![html](sub-sup.PNG)
+![html](IMG/sub-sup.PNG)
 
 *Whitespace* is the spaces between your text or strings that allow you to format your code to help make it easier to read. 
 

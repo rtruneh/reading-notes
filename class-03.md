@@ -67,6 +67,11 @@ Padding  is the space between the border and the content within.
 
 - You can use percentage here but generally pixels are used to define the padding. In the same way you can differentiate borders, the same applys to padding. By writing out `padding-*side*: *value*;`. 
 
+![padding](IMG/withoutpm.PNG)
+###### JavaScript and Jquery. Duckett ######
+![wopadding](IMG/withpaddingm.PNG)
+###### JavaScript and Jquery. Duckett ######
+
 ### **Inline and block displays** ###
 
 You can easily change the display of an inline to a block and vise versa in your CSS code. 
@@ -78,3 +83,19 @@ You can easily change the display of an inline to a block and vise versa in your
 Visibility allows you to hide boxes from users but still have content in that space by typing somehitng like `visibility: hidden` or `visibility: visible`.
 
 You can get as creativ as you like with CSS. Box shadows allows you to add a level of dimension to your site. Horizontal and vertical offset will position the box to the left or the top of the box. Blur distance will soften the color of the shadow and spread shadow, with a negative or positive value can expand or contract the shadow. 
+
+# Javascript #
+
+There are so many ways to check conditions to make sure your future site is running how it should. The IF/ELSE statement checks a condition and IF it's true it'll execute a certain code, ELSE if it is false it'll execute the second code given to it. 
+
+For a real life example, lets say your condition is set so that a passing grade is above 70. You'd set your statement to where IF the score is below 70 you can give them a message saying they failed, ELSE if they have a score over 70, they'll receive a message that says they passed. 
+
+Below is an example:
+
+![ifelse](IMG/ifelse.PNG)
+###### JavaScript and Jquery. Duckett ######
+
+
+A SWITCH statement allows you to give the user options for an answer by creating a default option that'll run in case none of the other cases match. By typing break in between cases it tells the computer to stop running that particular code and move on to the next in case the condition hasn't been met. 
+
+There are things that JavaScript does to help you out. Via type coercion, JS can convert data in order to help complete an operation. JS uses *weak typing* because the data type can change for a value. Some languages that require you to specify the data type uses *strong typing*
