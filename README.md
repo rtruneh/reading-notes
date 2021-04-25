@@ -4,7 +4,7 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 
 ## **Table of Content**
 
-## Code 102 Reading Notes
+## Code 102 Reading Notes ##
 
 |[*Growth Mindset*](welcome.md)|
 |[01 Learning Markdown](summary.md)|
@@ -17,12 +17,14 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 |[07 Programing with JavaScript](jslab7.md)|
 |[08 Operators and Loops](operators.md)|
 
-##  Code 201 Reading Notes
+##  Code 201 Reading Notes ##
+
+All notes come from HTML & CSS and JavaScript & JQuery by Duckett. 
 
 
 | [01 Reading](class-01.md) | [02 Reading](class-02.md)| [03 Reading](class-03.md) |
 | -------------- |:-------------:| --------------:|
-| [04 Reading]() | [05 Reading]()| [06 Reading]() |
+| [04 Reading](class-04.md) | [05 Reading]()| [06 Reading]() |
 | -------------- |:-------------:| --------------:|
 | [07 Reading]() | [08 Reading]()| [09 Reading]() |
 | -------------- |:-------------:| --------------:|
