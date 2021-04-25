@@ -1,4 +1,4 @@
-# CHAPTER 4 #
+# HTML & CSS: CHAPTER 4 #
 
 ## Links ##
 
@@ -21,7 +21,7 @@ You can create a link within your page that will allow your user to go to a spec
 
 By creating folders, also known as directories, you can create an organized structure within your code will help you as a coder to more readily and easily make any changes and to keep them seperate. 
 
-# CHAPTER 15 # 
+# HTML & CSS: CHAPTER 15 # 
 
 ## Layouts ##
 
@@ -41,3 +41,25 @@ There are three positioning schemes that help to control the layout of a page.
 
 3) Absolute Positioning
     -Will take the content out of normal flow and does not affect the surrounding elements. These positioned elements will move as users scroll. These can be the nav bar that moves up and down with the page. 
+
+# JavaScript & JQuery: Chapter 3 #
+
+Functions allow you to group a series of statements together to perform a specific task. You have to create variables with *parameters* to pass on the information. Once a funciton is created it will have to be *called* on so that the computer knows to perfom that task, the expected return is called the *return value*. 
+
+A basic function looks like 
+
+>`function nameOfFunction() {`<br>
+>    `document.write('message')`<br>
+>`}`
+
+When calling the function to make it process the code, you would just type `nameOfFunction();` on a separate line. 
+
+If you have a function that requires information, like a math function. You would call it in the same mannger, except you would add the needed information. 
+
+For example: 
+
+>`function getArea(width, height) {`<br>
+>`return width * height;`<br>
+>`}`
+
+You'd would type `getArea(3, 5);`. This is asking the funciton to return area if the width is 3 and the height is 5. 
