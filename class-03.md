@@ -98,4 +98,21 @@ Below is an example:
 
 A SWITCH statement allows you to give the user options for an answer by creating a default option that'll run in case none of the other cases match. By typing break in between cases it tells the computer to stop running that particular code and move on to the next in case the condition hasn't been met. 
 
-There are things that JavaScript does to help you out. Via type coercion, JS can convert data in order to help complete an operation. JS uses *weak typing* because the data type can change for a value. Some languages that require you to specify the data type uses *strong typing*
+There are things that JavaScript does to help you out. Via type coercion, JS can convert data in order to help complete an operation. JS uses *weak typing* because the data type can change for a value. Some languages that require you to specify the data type uses *strong typing*.
+
+Loops check a condition and will continue to run the code until it returns false. There are three types of loops; "for", "while" and "do while". 
+
+
+![ifloop](IMG/ifloop.PNG)
+###### JavaScript and Jquery. Duckett ######
+
+Lets break the above image down. 
+
+To create the function you have to use the key word "for", "while" or "do while". Within your parenthesis is where you create the condition. Your condition consists of: 
+
+Initialization `var i = 0;`, this is where you create a variable that counts as your counter and set it to zero. 
+
+Condition `i < 10;`, this tells it how many times to run. It'll run your code 10 times until it stops or a false is returned. 
+
+Update `i++;` lets it know in what increments to run. 
+
