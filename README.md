@@ -24,7 +24,7 @@ All notes come from HTML & CSS and JavaScript & JQuery by Duckett.
 
 | [01 Reading](class-01.md) | [02 Reading](class-02.md)| [03 Reading](class-03.md) |
 | -------------- |:-------------:| --------------:|
-| [04 Reading](class-04.md) | [05 Reading]()| [06 Reading]() |
+| [04 Reading](class-04.md) | [05 Reading](class-05.md)| [06 Reading]() |
 | -------------- |:-------------:| --------------:|
 | [07 Reading]() | [08 Reading]()| [09 Reading]() |
 | -------------- |:-------------:| --------------:|
