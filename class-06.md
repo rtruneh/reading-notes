@@ -11,13 +11,13 @@ Objects gropu together a set of variables and functions to create a moddel. With
 
 An object literal houses all this information: 
 
-`var kitten = {`
-    `name: 'spot',`
-    `age: 4,`
-    `available: true,`
-    `functionName: function() {`
-       ` return needed info;`
-    `}`
+`var kitten = {`<br>
+    `name: 'spot',`<br>
+    `age: 4,`<br>
+    `available: true,`<br>
+    `functionName: function() {`<br>
+       ` return needed info;`<br>
+    `}`<br>
 `}`
 
 Lets break some of these parts down. *Name*, *age* and *available* are called keys. The information after the colon is called the value. The word *kitten* after var is called the object. By using what is called the dot notation, you can access the information within the literal. This looks like *object.value*. In the example above, to call the age of the kitten, you'd write out kitten.age.
