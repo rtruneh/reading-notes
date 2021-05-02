@@ -22,13 +22,18 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 All notes come from HTML & CSS and JavaScript & JQuery by Duckett. 
 
 
-| [01 Reading](class-01.md) | [02 Reading](class-02.md)| [03 Reading](class-03.md) |
-| -------------- |:-------------:| --------------:|
-| [04 Reading](class-04.md) | [05 Reading](class-05.md)| [06 Reading]() |
-| -------------- |:-------------:| --------------:|
-| [07 Reading]() | [08 Reading]()| [09 Reading]() |
-| -------------- |:-------------:| --------------:|
-| [10 Reading]() | [11 Reading]()| [12 Reading]() |
-| -------------- |:-------------:| --------------:|
-| [13 Reading]() | [14 Reading]()| [15 Reading]() |
-| -------------- |:-------------:| --------------:|
+| [01 Reading](class-01.md) | [02 Reading](class-02.md)|
+|---------------------------|--------------------------|
+| [03 Reading](class-03.md) | [04 Reading](class-04.md)|
+|---------------------------|--------------------------|
+| [05 Reading](class-05.md) | [06 Reading](class-06.md)
+|---------------------------|--------------------------|
+| [07 Reading](class-07.md) | [08 Reading](class-08.md)
+|---------------------------|--------------------------|
+| [09 Reading]() | [10 Reading]() 
+|---------------------------|--------------------------|
+| [11 Reading]()| [12 Reading]()
+|---------------------------|--------------------------|
+| [13 Reading]() | [14 Reading]()
+|---------------------------|--------------------------|
+| [15 Reading]() |
