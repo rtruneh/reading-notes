@@ -38,3 +38,17 @@ Working the DOM tree has two steps:
 
     
 DOM queries are methods to find elements within a DOM tree. If you are working with multiple elements you should use a variable to store the result. 
+
+A nodelist is a collection of element nodes, much like an array. Each one has an index number, the order is the same as how it appears in the HTML page. To select an element from a Nodelist you can use the item() method to return an individual node by sepcifying the index number. Here you would have to select elemnts that have the specific class you are looking for, then use the **length** property to check how many elements are found and tell it to run the code within your if statement if more than one element is found. Store the first element within a variable inside the if statement. 
+
+`var elements = document.getElementsByClassName('hot')`<br>
+`if (elements.length>= 1) {`<br>
+`var firstltem = elements.item(O);`<br>
+`}`
+
+The array method is preferred because it's faster. 
+
+`var elements = document.getElementsByClassName('hot');`<br>
+`if (elements.length>= 1) {`<br>
+`var firstltem = elements[O];`<br>
+`}`
