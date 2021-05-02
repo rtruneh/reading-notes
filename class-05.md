@@ -66,4 +66,4 @@ Things to consider when coding:
 
 Attribute selectors help you to target a particular element in order to change it's appearance. 
 
-![img](img/attribute.PNG)
+![img](IMG/attribute.PNG)
