@@ -70,3 +70,20 @@ content of the table headers <br>
 `empty-cells: inherit` will tell the current cell to inherit the rules of the containing cells. <br>
 `border-collaps` cells are pushed together with no spacing between boxes. <br>
 `border-spacing` borders are detached from one another. 
+
+# JavaScript #
+## Chapter 6 ##
+
+An event can trigger a function or a script within your javascript code. It can be anything from loading a page to scrolling to clicking. You're going to have to think like a user and imagine what will happen when certain events occur. So if they are submitting a form, what will happen when they click submit? Then create the function or script that you want to happen when the event happens. 
+
+There are three ways to bind an event to an element. *HTML event handler*, while not used, is good to know so you can recoginze in older code. We won't talk about it much here but feel free to do some digging on your own time. 
+
+The second way is through *traditional DOM event handlers*, these only allow you to do one at a time. Below is an example of the syntax: <br>
+`element.onevent = functionName;`<br>
+The event name is preceded by "on" and the entire line is written after the node has been selected. Notice that the function name doesn't have the parenthesis, that's because we don't want it to run immediately. We need it to run when the event occurs. 
+
+The final way is using *event listeners* which allows you to work with more than one function but are not supported on older browsers. 
+
+![event listner](IMG/eventlistner.PNG)
+
+Since you wouldn't have the parenthesis in the function you'd have to add an *anonymous function* in order to create another argument. 
