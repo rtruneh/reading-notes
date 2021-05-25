@@ -43,3 +43,13 @@ SEO uses two techniques to determine what comes first in search results: On-Page
 The *Off-Page* techniques looks at links to your site from other sites as well as taking into consideration the relevance of the site that has your site linked. 
  
 You'll also want to learn about the people coming across your site. Informaiton like how they found your site, who sent them and at what point they left are vital to improving and maintaining your sheet. You can sign up for google analytics that will in turn give you data analytics of the traffic to your site and answers questions like the ones above. 
+
+## Chapter 9: Flash (201-208) ##
+
+While Flash isn't used as much as it was prior to 2005, it's still good to know and have an understanding of it. Libraries like Prototype and JQuery were since then created to to make it easier to use JS(javascript) to have animated effects. 
+
+Flash is what it's called when you add any type of animation or media player to your site. I'm sure you've seen the request to make sure your flash is on in order to proceed on certain sites.
+
+There are tools that help you to create a flash file or you can purchase the software to create your own. Flash files are saved with a .fla extensions but when saving for use on a site needs to be switched to .swf. When this is done, Flash will create a code that you can embed into your page. 
+
+When adding a file to your HTML you should place 
