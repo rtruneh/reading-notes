@@ -30,7 +30,7 @@ All notes come from HTML & CSS and JavaScript & JQuery by Duckett.
 |---------------------------|--------------------------|
 | [07 Reading](class-07.md) | [08 Reading](class-08.md)
 |---------------------------|--------------------------|
-| [09 Reading]() | [10 Reading](class-10.md) 
+| [09 Reading](class-09.md) | [10 Reading](class-10.md) 
 |---------------------------|--------------------------|
 | [11 Reading](class-11.md)| [12 Reading]()
 |---------------------------|--------------------------|
