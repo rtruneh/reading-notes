@@ -16,3 +16,20 @@ The default flow or "natural" flow is where each block level element sits on top
 When using any of the above mentioned elements, they will overlap. In order to control which element is on top you would use the z-index property with a number value. The higher the number the closer it is to the front. 
 
 Float properties paired with the width property allow you to take an element within a normal flow and place it to the left or right of it's container. Clear properties allow you to say that no element within the same container should touch the left or right side of the box. To get the multi column design on your page you achieve this by dividing each element within its own `<div>`. When you are ready to design in CSS you add the width(to set the width of the column), float (to position the columns next to each other) and margin (to create gaps between them). 
+If a containing element only has floated elements the browser will collapse the css border. The work around for this is to add `overflow: auto;` and set width to 100%
+
+#### Multi-Column layouts with Floats ####
+
+Make sure to set each column within it's own `<div>` and give it it a class name. You can then begin to set each column with it's own css properties using the class name. 
+
+#### Screen Sizes and Resolutions ####
+
+Resolution refers to the number of dots a screen shows per inch. This will differ by size and type of tech used. You'll have the fun job of trying to appeal to all sizes and resolutions. Most designers try and create pages around 960-1000 pixels wide. 
+
+Fixed width layouts do not change sizes if the user increases or decreases the size of their browser window. There are advantages and disadvantages to this. Where you're pixel value is accurate and you have control of the appearance and position of the items, if a users page is larger than anticipated this can make the page difficult to read or create a lot of empty space. 
+
+Liquid layouts streth and contract as the user increases or decreases the browser. This means the page will always fill the entire screen and it's a tolerant design if users set font to large. However, without set width's the page can be extremely stretched and in turn difficult to read, images can overflow and a narrow window will squish all the content. 
+
+Layout grids are helpful. It essentially breaks the page down into parts that help designers position items on the page. 
+
+If you plan on using multiple style sheets you'll be needing to use the `@import` value. Some designers use separate css sheets to help separate what each one does, whether it's to control layout or font or colors etc. It's a couple of ways to do this. You can either link one style sheet to your HTML and then use the `@import` rule to import other sheets. Or you can use separate links for each style sheet in your HTML. 
