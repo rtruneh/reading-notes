@@ -37,3 +37,9 @@ All notes come from HTML & CSS and JavaScript & JQuery by Duckett.
 | [13 Reading]() | [14 Reading](class-14a.md)
 |---------------------------|--------------------------|
 | [15 Reading]() |
+
+## Code 301 Reading Notes ##
+
+
+|[*Intro To Reach*](react-intro-01.md)|
+|[*State and Props*](State-props-02.md)|
