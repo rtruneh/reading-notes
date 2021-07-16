@@ -65,5 +65,8 @@ You can create a function to use as a template for creating several objects with
 So when creating new instances you'd create the variable with a new object name and then add the cosntructor function: 
 `var innHotel = new Hotel ('Inn', 40);`<br>
 
+An array can also be an object. With an array you can store related set of key/value pairs where the index number is the key for each value. When you combine arrays and objects, you create complex data structures.
 
-`
+Things like the DOM or JS objects like strings, booleans and numbers are considered built in objects. These are objects you didn't create but that a hardwired into the language and can be used to create and build your site.
+
+
