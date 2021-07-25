@@ -2,9 +2,10 @@
 
 My name is Rosa Truneh. A mother of a 9 year old with a colorful background in accounting, food and beverage, management, real estate and now coding. Constantly looking for new ways to better myself, I consider every day the chance to do that. As a forever student I look forward to the challenge. I am ready and willing to be taught and open to connect. So welcome to the journey and come learn with me.
 
-## **Table of Content**
+## **Table of Content** ##
+## Reading Notes ##
 
-## Code 102 Reading Notes ##
+## Code 102 - Intro to Software Develoopment  ##
 
 |[*Growth Mindset*](welcome.md)|
 |[01 Learning Markdown](summary.md)|
@@ -17,7 +18,7 @@ My name is Rosa Truneh. A mother of a 9 year old with a colorful background in a
 |[07 Programing with JavaScript](jslab7.md)|
 |[08 Operators and Loops](operators.md)|
 
-##  Code 201 Reading Notes ##
+##  Code 201 - Foundations of Software Development ##
 
 All notes come from HTML & CSS and JavaScript & JQuery by Duckett. 
 
@@ -38,7 +39,7 @@ All notes come from HTML & CSS and JavaScript & JQuery by Duckett.
 |---------------------------|--------------------------|
 | [15 Reading]() |
 
-## Code 301 Reading Notes ##
+## Code 301 - Intermediate Software Development ##
 
 
 |[*Intro To Reach*](react-intro-01.md)|
